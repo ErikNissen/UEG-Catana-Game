@@ -18,7 +18,6 @@ Ziel:
 Processor:
     Input:
         Tag wann man da ist.
-    
     Output:
         Was dann zur Verfügung.
 
